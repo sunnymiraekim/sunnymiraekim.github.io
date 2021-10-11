@@ -16,7 +16,7 @@ My name is Mirae "Sunny" Kim, and I am a computer science PhD student at Rice Un
   - supervised by Dr. Vicky Yao
   - [ylab](https://www.cs.rice.edu/~vy/)
   
-- 2019-2020: MSE in biomedical engineering
+- 2018-2020: MSE in biomedical engineering
   - The University of Texas at Austin
   - thesis: Deep learning-based classification of breast cancer cells using transmembrane receptor dynamics
   - supervised by Dr. Hsin-Chih "Tim" Yeh
