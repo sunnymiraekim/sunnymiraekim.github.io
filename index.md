@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/sunnymiraekim/personal-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+i am a computer science PhD student at Rice University in Houston, TX, with a focus in bioinformatics in the [ylab](https://www.cs.rice.edu/~vy/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### education
 
-### Markdown
+- in progress: PhD in computer science, Rice University
+  - supervised by Dr. Vicky Yao
+- 2019-2020: MSE in biomedical engineering, The University of Texas at Austin
+  - thesis: Deep learning-based classification of breast cancer cells using transmembrane receptor dynamics
+  - supervised by Dr. Hsin-Chih "Tim" Yeh in the [Nanobiosensors and Molecular Tracking Lab](http://research.engr.utexas.edu/yeh/home)
+- 2015-2020: BS in biomedical engineering, The University of Texas at Austin
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunnymiraekim/personal-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
