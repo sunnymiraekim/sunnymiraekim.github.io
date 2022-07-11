@@ -2,6 +2,8 @@
 
 My name is Mirae "Sunny" Kim, and I am a computer science PhD student at Rice University in Houston, TX, with a focus in bioinformatics in the [ylab](https://www.cs.rice.edu/~vy/)
 
+- check out my recent publications [here](publications.md)
+
 ### publications
 - **Kim, M.**, Hong, S., Yankeelov, T. E., Yeh, H.-C., & Liu, Y.-L. (2022). Deep learning-based classification of breast cancer cells using transmembrane receptor dynamics. Bioinformatics, 38(1), 243-249. [https://doi.org/10.1093/bioinformatics/btab581](https://doi.org/10.1093/bioinformatics/btab581)
 - **Kim, M.**, Liu, Y.-L. (2022). Transmembrane receptor dynamics as biophysical markers for assessing cancer cells. Handbook of Single-Cell Technologies, 2022, 865. [https://doi.org/10.1007/978-981-10-8953-4_38](https://doi.org/10.1007/978-981-10-8953-4_38)
